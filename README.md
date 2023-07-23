@@ -1,6 +1,6 @@
 # Zadání úkolu pro Z-BOX Mobile SDK (BLE) pro Android
 
-Tento úkol je zaměřen na seznámení se s Bluetooth Low Energy (BLE) komunikací na Androidu pomocí jazyka Kotlin. Cílem je demonstrovat schopnost implementovat základní skenování a připojení za pomoci a možnosti frameworku, které jsou běžné v práci s BLE na Androidu.
+Tento úkol je zaměřen na seznámení se s Bluetooth Low Energy (BLE) komunikací na Androidu pomocí jazyka Kotlin. Cílem je seznámit se a demonstrovat schopnost implementovat základní skenování a připojení za pomoci a možnosti SDK, které jsou běžné v práci s BLE na Androidu.
 
 ## Instrukce
 1. Domluvte si, prosím, online schůzku s Tomášem Urbánkem, který je odpovědný vývoj hardware a firmware Z-BOXů. Na této schuzce se seznámite se všemi detaily, včetně části týmu Z-BOXu, se ketrým budete úzce spolupracovat. Kontakt je níže.
